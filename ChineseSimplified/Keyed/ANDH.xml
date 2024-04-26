@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+   <ANDH.BondedDetectionChance>牵绊检测机率</ANDH.BondedDetectionChance>
+   <ANDH.BondedDetectionChance.Description>调整当宠物向其牵绊对象撒娇时检测到金属怪形的机率。 0.0 ~ 1.0.</ANDH.BondedDetectionChance.Description>
+
+   <ANDH.CanTriggerEmerging>是否可通过宠物撒娇动作触发</ANDH.CanTriggerEmerging>
+   <ANDH.CanTriggerEmerging.Description>宠物的撒娇是否可检测到金属怪形</ANDH.CanTriggerEmerging.Description>
+
+   <ANDH.DetectionChance>非牵绊检测机率</ANDH.DetectionChance>
+   <ANDH.DetectionChance.Description>调整宠物对牵绊对象以外的人撒娇时检测到金属怪形的几率。 0.0 ~ 1.0.</ANDH.DetectionChance.Description>
+
+   <ANDH.DetectionRadius>检测范围</ANDH.DetectionRadius>
+   <ANDH.DetectionRadius.Description>调整所有殖民者可以透过撒娇检测到金属怪形的距离。 3.0 ~ 100.0.</ANDH.DetectionRadius.Description>
+
+   <ANDH.EmergenceChance>触发机率</ANDH.EmergenceChance>
+   <ANDH.EmergenceChance.Description>调整宠物撒娇检测出金属怪形的几率（需要勾选「是否可通过宠物撒娇动作触发」）. 0.0 ~ 1.0.</ANDH.EmergenceChance.Description>
+
+   <ANDH.MetalhorrorReasonNuzzled>{INFECTED_nameDef}在和{PAWN_nameDef}的互动之间暴露了他体內的金属怪形</ANDH.MetalhorrorReasonNuzzled>
+
+    <ANDH.NuzzleDetectedDesc>{NOTICED_nameDef}注意到{PAWN_nameDef}对于{INFECTED_nameDef}异常的冷漠, 不如平常的热情，牠全神贯注地凝视着{INFECTED_nameDef},因此{NOTICED_nameDef}想起最近一段时间{INFECTED_nameDef}的行为似乎有点怪异，他怀疑{INFECTED_nameDef}可能感染了金属怪形</ANDH.NuzzleDetectedDesc>
+
+    <ANDH.NuzzleBondedDetectedDesc>{NOTICED_nameDef}注意到本应与{INFECTED_nameDef}最亲密的{PAWN_nameDef}突然表现怪异，牠全神贯注地凝视着{INFECTED_nameDef},像是看到了什么奇怪的东西，于是回想起{INFECTED_nameDef}最近的行为似乎有点反常。他怀疑{INFECTED_nameDef}可能感染了金属怪形</ANDH.NuzzleBondedDetectedDesc>
+</LanguageData>

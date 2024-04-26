@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+   <ANDH.BondedDetectionChance>羈絆檢測機率</ANDH.BondedDetectionChance>
+   <ANDH.BondedDetectionChance.Description>調整當寵物向其羈絆對象撒嬌時檢測到懼金的機率。 0.0 ~ 1.0.</ANDH.BondedDetectionChance.Description>
+
+   <ANDH.CanTriggerEmerging>是否可通過寵物撒嬌動作觸發</ANDH.CanTriggerEmerging>
+   <ANDH.CanTriggerEmerging.Description>寵物的撒嬌是否可檢測到懼金</ANDH.CanTriggerEmerging.Description>
+
+   <ANDH.DetectionChance>非羈絆檢測機率</ANDH.DetectionChance>
+   <ANDH.DetectionChance.Description>調整寵物對羈絆對象以外的人撒嬌時檢測到懼金的幾率。 0.0 ~ 1.0.</ANDH.DetectionChance.Description>
+
+   <ANDH.DetectionRadius>檢測範圍</ANDH.DetectionRadius>
+   <ANDH.DetectionRadius.Description>調整所有殖民者可以透過撒嬌檢測到懼金的距離。 3.0 ~ 100.0.</ANDH.DetectionRadius.Description>
+
+   <ANDH.EmergenceChance>觸發機率</ANDH.EmergenceChance>
+   <ANDH.EmergenceChance.Description>調整寵物撒嬌檢測出懼金的幾率（需要勾選「是否可通過寵物撒嬌動作觸發」）. 0.0 ~ 1.0.</ANDH.EmergenceChance.Description>
+
+   <ANDH.MetalhorrorReasonNuzzled>{INFECTED_nameDef}在和{PAWN_nameDef}的互動之間暴露了他體內的懼金</ANDH.MetalhorrorReasonNuzzled>
+
+    <ANDH.NuzzleDetectedDesc>{NOTICED_nameDef}注意到{PAWN_nameDef}對於{INFECTED_nameDef}異常的冷漠, 不如平常的熱情，牠全神貫注地凝視著{INFECTED_nameDef},因此{NOTICED_nameDef}想起最近一段時間{INFECTED_nameDef}的行為似乎有點怪異，他懷疑{INFECTED_nameDef}可能感染了懼金</ANDH.NuzzleDetectedDesc>
+
+    <ANDH.NuzzleBondedDetectedDesc>{NOTICED_nameDef}注意到本應與{INFECTED_nameDef}最親密的{PAWN_nameDef}突然表現怪異，牠全神貫注地凝視著{INFECTED_nameDef},像是看到了什麽奇怪的東西，於是回想起{INFECTED_nameDef}最近的行為似乎有點反常。他懷疑{INFECTED_nameDef}可能感染了懼金</ANDH.NuzzleBondedDetectedDesc>
+</LanguageData>
